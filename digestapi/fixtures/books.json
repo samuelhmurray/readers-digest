@@ -1,0 +1,32 @@
+[
+  {
+    "model": "digestapi.book",
+    "fields": {
+      "user": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn_number": "9780061120084",
+      "cover_image": "https://images.gr-assets.com/books/1361975680l/2657.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "fields": {
+      "user": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn_number": "9780451524935",
+      "cover_image": "https://images.gr-assets.com/books/1348990566l/5470.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "fields": {
+      "user": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn_number": "9780743273565",
+      "cover_image": "https://images.gr-assets.com/books/1490528560l/4671.jpg"
+    }
+  }
+]

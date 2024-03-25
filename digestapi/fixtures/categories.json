@@ -1,0 +1,32 @@
+[
+  {
+    "model": "digestapi.category",
+    "fields": {
+      "name": "Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "fields": {
+      "name": "Non-Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "fields": {
+      "name": "Science Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "fields": {
+      "name": "Mystery"
+    }
+  }
+]
